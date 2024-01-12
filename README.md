@@ -1,6 +1,9 @@
 # Terraform-Essentials
 
-This repo will guide us on IAC,the basics of setting up and using the tool Terraform on AWS
+This repo will guide us on IAC,the basics of setting up and using the tool Terraform on AWS.
+
+## Definition of Infrastructure as Code
+
 Infrastructure as Code (IaC) is a concept and practice in software engineering and system administration that involves managing and provisioning computing infrastructure through machine-readable script files, rather than through physical hardware configuration or interactive configuration tools. The idea is to treat infrastructure configurations as code, applying software development practices to infrastructure management.
 
 ## Key aspects of Infrastructure as Code include:
