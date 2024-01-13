@@ -125,6 +125,9 @@ Prerequsites
 
 - `choco install terraform -y`
 
+- Define your infrastructure
+![image](./images/simple-config.png)
+
 - Initialize terraform in your working directory
 
 `terraform init`
