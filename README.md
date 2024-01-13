@@ -110,7 +110,9 @@ Prerequsites
 - Download AWS CLI
  `choco install awscli -y`
 
-- Configure AWS with new IAM user
+- Configure AWS Credentials of new IAM user
+
+![image](./images/aws-configure.png)
 
 - Install git
 `choco install git -y`
@@ -119,10 +121,13 @@ Prerequsites
 `choco install vscode -y`
 
 
+## Start Terraform workflow
 
+- `choco install terraform -y`
 
-## Start
+- Initialize terraform in your working directory
 
+`terraform init`
 
 
 
